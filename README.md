@@ -7,3 +7,7 @@ Why Learning to Code is So Damn Hard:
 http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 
 add a URL here!!
+Very useful tools for Fron End Web Developers
+
+https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643
+
