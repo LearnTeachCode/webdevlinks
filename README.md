@@ -12,3 +12,5 @@ https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-deve
 An interactive tutorial for the basics of Git and GitHub (using the command line):  
 https://try.github.io/
 
+This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress.
+http://learnwebcode.com/start-here/
