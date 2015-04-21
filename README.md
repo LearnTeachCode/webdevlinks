@@ -14,3 +14,10 @@ https://try.github.io/
 
 This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress.
 http://learnwebcode.com/start-here/
+
+###Homework:
+- Add five good web dev links here by our next meeting (which will be Monday the 27th)
+- Make an edit to this page using GitHub (ask us for help if you get stuck!)
+
+##Goal for next meetup:
+- Create a finished HTML document for version 1 of our website content!
