@@ -1,3 +1,5 @@
+##Links from Monday 4/20 web dev study group
+
 ###Homework:
 - Add five good web dev links here by our next meeting (which will be Monday, April 27th)
 - Fork this project or make an edit to this page using GitHub (ask us for help if you get stuck!)
@@ -5,7 +7,7 @@
 ###Goal for next meetup (Monday 4/27):
 - Create a finished HTML document for version 1 of our website content!
 
-##Links from Monday 4/20 web dev study group
+###Our list of cool web dev links:
 
 How to use GitHub Pages (host a free website on GitHub):  
 http://jmcglone.com/guides/github-pages/
