@@ -26,3 +26,6 @@ https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-deve
 
 This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress.
 http://learnwebcode.com/start-here/
+
+Free web tutorials, codes, templates, tools, and other web creation stuff.  
+http://www.quackit.com/
