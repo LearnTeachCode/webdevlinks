@@ -1,4 +1,4 @@
-##Links from Monday 4/20 web dev study group
+##Learn to Code LA's first front-end web dev group project
 
 ###Homework:
 - Add five good web dev links here by our next meeting (which will be Monday, April 27th)
