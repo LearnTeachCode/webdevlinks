@@ -1,3 +1,10 @@
+###Homework:
+- Add five good web dev links here by our next meeting (which will be Monday, April 27th)
+- Fork this project or make an edit to this page using GitHub (ask us for help if you get stuck!)
+
+##Goal for next meetup (Monday 4/27):
+- Create a finished HTML document for version 1 of our website content!
+
 ##Links from Monday 4/20 web dev study group
 
 How to use GitHub Pages (host a free website on GitHub):  
@@ -17,10 +24,3 @@ https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-deve
 
 This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress.
 http://learnwebcode.com/start-here/
-
-###Homework:
-- Add five good web dev links here by our next meeting (which will be Monday the 27th)
-- Make an edit to this page using GitHub (ask us for help if you get stuck!)
-
-##Goal for next meetup:
-- Create a finished HTML document for version 1 of our website content!
