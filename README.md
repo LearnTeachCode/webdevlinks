@@ -31,5 +31,5 @@ Free web tutorials, codes, templates, tools, and other web creation stuff.
 http://www.quackit.com/
 
 Google's Web Fundamentals website:  
-https://developers.google.com/web/fundamentals/
+https://developers.google.com/web/fundamentals/  
 (and the site itself is open-source: https://github.com/google/WebFundamentals)
