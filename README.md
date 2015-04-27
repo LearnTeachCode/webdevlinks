@@ -33,3 +33,6 @@ http://www.quackit.com/
 Google's Web Fundamentals website:  
 https://developers.google.com/web/fundamentals/  
 (and the site itself is open-source: https://github.com/google/WebFundamentals)
+
+30 CSS Best Practices for Beginners
+http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741
