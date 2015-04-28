@@ -1,10 +1,10 @@
 ##Learn to Code LA's first front-end web dev group project
 
 ###Homework:
-- Make a GitHub account
+- Make a GitHub accoun and send it to Liz Krane on Meetup.com
 - Get familiar with using GitHub (see https://try.github.io/, https://www.youtube.com/watch?v=FyfwLX4HAxM, ...)
-- Add five good web dev links here by our next meeting
-- Fork this project or make an edit to this page using GitHub (ask us for help if you get stuck!)
+- Add 5 of your favorite web dev links here
+- Ask us for help if you get stuck!
 
 ###Goal for next meetup:
 - Create a finished HTML document for version 1 of our website content!
