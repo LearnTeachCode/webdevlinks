@@ -3,7 +3,7 @@
 ###Homework:
 - Make a GitHub accoun and send it to Liz Krane on Meetup.com
 - Get familiar with using GitHub (see https://try.github.io/, https://www.youtube.com/watch?v=FyfwLX4HAxM, ...)
-- Add 5 of your favorite web dev links at the bottom of this document
+- Add 5 of your favorite web dev links to the bottom of this document
 - Ask us for help if you get stuck!
 
 ###Goal for next meetup:
