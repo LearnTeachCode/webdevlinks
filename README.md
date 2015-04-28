@@ -24,6 +24,8 @@ http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 Very good resource for Front End Web Developers:  
 https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643
 
+http://www.w3schools.com/
+
 This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress.
 http://learnwebcode.com/start-here/
 
@@ -42,3 +44,4 @@ www.java2s.com
 
 CSS Basics
 http://www.cssbasics.com/
+
