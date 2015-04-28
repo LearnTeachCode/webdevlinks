@@ -1,10 +1,12 @@
 ##Learn to Code LA's first front-end web dev group project
 
 ###Homework:
-- Add five good web dev links here by our next meeting (which will be Monday, April 27th)
+- Make a GitHub account
+- Get familiar with using GitHub (see https://try.github.io/, https://www.youtube.com/watch?v=FyfwLX4HAxM, ...)
+- Add five good web dev links here by our next meeting
 - Fork this project or make an edit to this page using GitHub (ask us for help if you get stuck!)
 
-###Goal for next meetup (Monday 4/27):
+###Goal for next meetup:
 - Create a finished HTML document for version 1 of our website content!
 
 ###Our list of cool web dev links:
@@ -20,10 +22,6 @@ http://www.colourlovers.com/
 
 HTML Special Symbols:
 http://www.sabinanore.com/design/html-special-symbols/
-
-
-An interactive tutorial for the basics of Git and GitHub (using the command line):  
-https://try.github.io/
 
 CSS Gradients:  	
 https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf
