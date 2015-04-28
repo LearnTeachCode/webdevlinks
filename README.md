@@ -18,6 +18,9 @@ http://codepen.io/
 Color Palletes:
 http://www.colourlovers.com/
 
+HTML Special Symbols:
+http://www.sabinanore.com/design/html-special-symbols/
+
 
 An interactive tutorial for the basics of Git and GitHub (using the command line):  
 https://try.github.io/
