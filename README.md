@@ -12,6 +12,13 @@
 How to use GitHub Pages (host a free website on GitHub):  
 http://jmcglone.com/guides/github-pages/
 
+Code Pen:
+http://codepen.io/
+
+Color Palletes:
+http://www.colourlovers.com/
+
+
 An interactive tutorial for the basics of Git and GitHub (using the command line):  
 https://try.github.io/
 
