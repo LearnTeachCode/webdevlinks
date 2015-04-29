@@ -1,13 +1,16 @@
 ##Learn to Code LA's first front-end web dev group project
 
 ###Homework:
-- Make a GitHub account and send your username to Liz Krane on Meetup.com
-- Get familiar with using GitHub!
-- 1) Watch [this short video series](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
-- 2) Do [this short interactive tutorial](https://try.github.io/)
-- 3) Watch [the first 5 videos in this series](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1)
-- Add 5 of your favorite web dev links to the bottom of this document
-- Ask us for help if you get stuck!
+Priority for our meetup group waitlist goes to those who do the homework!
+
+1. Make a GitHub account and send your username to Liz Krane on Meetup.com
+2. Get familiar with using GitHub. Start on the following (you don't have to finish it all):
+  - First, watch [this short video series](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+  - Next, do [this short interactive tutorial](https://try.github.io/)
+  - And if you need extra help, watch [the first 5 videos in this series](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1)
+3. Add 5 of your favorite web dev links to the bottom of this document
+
+If you get stuck or have any questions, just ask us! We have a [private group chat on Slack](http://learntocodela.slack.com) -- send Liz Krane your email address if you want an invite.
 
 ###Goal for next meetup:
 - Create a finished HTML document for version 1 of our website content!
