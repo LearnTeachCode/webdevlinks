@@ -5,7 +5,7 @@
 - Get familiar with using GitHub!
 - 1) Watch [this short video series](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
 - 2) Do [this short interactive tutorial](https://try.github.io/)
-- 3) Watch [the first 5 videos in this series](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1(
+- 3) Watch [the first 5 videos in this series](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1)
 - Add 5 of your favorite web dev links to the bottom of this document
 - Ask us for help if you get stuck!
 
