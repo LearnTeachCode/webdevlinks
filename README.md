@@ -1,7 +1,7 @@
 ##Learn to Code LA's first front-end web dev group project
 
 ###Homework:
-Priority for our Monday night meetup group goes to those who do the homework!
+**Priority for our Monday night meetup group goes to those who do the homework!**
 
 1. Make a GitHub account and send your username to Liz Krane on Meetup.com
 2. Get familiar with using GitHub. Start on the following (you don't have to finish it all):
