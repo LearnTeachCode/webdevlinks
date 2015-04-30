@@ -59,3 +59,14 @@ www.java2s.com
 CSS Basics
 http://www.cssbasics.com/
 
+
+
+nodejs for beginners, deploy your blog to heroku, how to node http://j.mp/1OTO0qv
+
+perfect css hexagons http://j.mp/1DiyQV5
+
+anatomy of a javascript framework http://j.mp/1IOyRou
+
+the absolute beginners guide to node.js http://j.mp/1GmtPiQ
+
+best practices for building angular.js http://j.mp/1aSHUJt
