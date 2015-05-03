@@ -59,8 +59,6 @@ www.java2s.com
 CSS Basics
 http://www.cssbasics.com/
 
-
-
 nodejs for beginners, deploy your blog to heroku, how to node http://j.mp/1OTO0qv
 
 perfect css hexagons http://j.mp/1DiyQV5
@@ -70,3 +68,19 @@ anatomy of a javascript framework http://j.mp/1IOyRou
 the absolute beginners guide to node.js http://j.mp/1GmtPiQ
 
 best practices for building angular.js http://j.mp/1aSHUJt
+
+Code Academy - Make a Website - HTML/CSS
+http://www.codecademy.com/en/skills/make-a-website
+
+Code Academy - Make an Interactive Website
+http://www.codecademy.com/en/skills/make-an-interactive-website
+
+Code Academy - Learn AngularJS
+http://www.codecademy.com/en/learn/learn-angularjs
+
+Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system
+http://getbootstrap.com/css/
+
+learn to code by building projects for nonprofits
+http://www.freecodecamp.com/
+
