@@ -89,3 +89,6 @@ http://tympanus.net/codrops/category/tutorials/
 
 An extensive CSS reference with all the important properties and info to learn CSS from the basics
 http://tympanus.net/codrops/css_reference/
+
+ABC of JavaScript : An Interactive JavaScript Tutorial
+http://www.openjs.com/tutorials/basic_tutorial/index.php
