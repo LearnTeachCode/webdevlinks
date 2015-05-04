@@ -84,3 +84,8 @@ http://getbootstrap.com/css/
 learn to code by building projects for nonprofits
 http://www.freecodecamp.com/
 
+Find in-depth how-tos involving common web development and web design techniques.
+http://tympanus.net/codrops/category/tutorials/
+
+An extensive CSS reference with all the important properties and info to learn CSS from the basics
+http://tympanus.net/codrops/css_reference/
