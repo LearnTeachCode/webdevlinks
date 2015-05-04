@@ -95,3 +95,6 @@ http://www.openjs.com/tutorials/basic_tutorial/index.php
 
 A coding community site with online editor. Share JavaScript, HTML5 and CSS
 http://jsdo.it/
+
+HTML5 & CSS3 Fundamentals: Development for Absolute Beginners - 21 Video tutorials
+http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners
