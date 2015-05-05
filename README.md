@@ -101,3 +101,7 @@ http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-
 
 CS 50 -- free online course from Harvard, great intro to programming
 https://cs50.harvard.edu/
+
+Git Cheat Sheet:
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
