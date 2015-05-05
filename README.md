@@ -98,3 +98,6 @@ http://jsdo.it/
 
 HTML5 & CSS3 Fundamentals: Development for Absolute Beginners - 21 Video tutorials
 http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners
+
+CS 50 -- free online course from Harvard, great intro to programming
+https://cs50.harvard.edu/
