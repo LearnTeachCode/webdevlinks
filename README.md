@@ -106,3 +106,20 @@ Git Cheat Sheet:
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 stuuf
+
+## Javascript
+
+### Books
++ [JS Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
++ [Developing Backbone.js Applications](https://addyosmani.github.io/backbone-fundamentals/)
++ [Javascript Allonge](https://leanpub.com/javascript-allonge)
+
+### References
++ [Javascript MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Blogs/Tutorials
++ [HTML5Rocks](http://www.html5rocks.com/en)
++ [DailyJS](http://dailyjs.com/)
++ [NodeSchool](http://nodeschool.io/)
+
+
