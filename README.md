@@ -105,6 +105,15 @@ https://cs50.harvard.edu/
 Git Cheat Sheet:
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
+SitePoint Newsletter:
+http://www.sitepoint.com/newsletter/
+
+Enjoycss.com:
+http://enjoycss.com/
+
+Zurb's Foundation – An alternative to Bootstrap:
+http://foundation.zurb.com/
+
 stuuf
 
 ## Javascript
