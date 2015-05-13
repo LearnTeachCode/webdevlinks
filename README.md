@@ -131,4 +131,13 @@ stuuf
 + [DailyJS](http://dailyjs.com/)
 + [NodeSchool](http://nodeschool.io/)
 
+### GitHub Resources 
++ [Online version of Scott's authoritative book on Git.](http://git-scm.com/book/en/v2)
++ [Clearn, concise tutorials on Git.] (https://www.atlassian.com/git/tutorials/)
++ [Reference Site of jameswillweb] (http://nicksimson.com/github-for-web-designers/)
+
+ 
+
+
+
 
