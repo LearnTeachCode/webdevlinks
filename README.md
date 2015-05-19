@@ -20,6 +20,12 @@ If you get stuck or have any questions, just ask us! We have a [private group ch
 How to use GitHub Pages (host a free website on GitHub):  
 http://jmcglone.com/guides/github-pages/
 
+How to use the command line (including Windows, Mac, and Linux):
+Learn Python the Hard Way APPENDIX:
+http://learnpythonthehardway.org/book/appendixa.html
+
+This is really straightforward for someone who has never used the command line.
+
 Code Pen:
 http://codepen.io/
 
