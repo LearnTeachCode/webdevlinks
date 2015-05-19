@@ -1,0 +1,50 @@
+ header {
+      text-align: center;
+      background: url('http://www.peugeot.com/images/FICHES_PRODUITS/1-Produits_Services/6-Peugeot_Design_Lab/Studio/Peugeot-Design-Lab-DL121-01.jpg');
+      background-size: cover;
+      color: lightgrey;
+      margin: 0 auto;
+    }
+    .photo {
+      width:200px;
+      height:200px;
+    }
+ a {
+      color: white;
+    }
+ h1 {
+      font-size: 50px;
+      position:center;
+      color: white;
+ 
+    }
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid grey;
+      border-radius: 20px;
+      width:200px;
+      height:150px;
+    }
+
+table, td {
+	border: 3px grey solid;
+	margin: 0 auto;
+	position:center; 
+	}
+
+body {
+	background: url('http://s3.amazonaws.com/contemporaryartgroup/wp-content/uploads/2013/03/ICA-WhitePetals-06.jpg');
+}
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+h4 {
+  font-family: times, serif;
+  font-weight: normal;
+  font-style: normal;
+}
