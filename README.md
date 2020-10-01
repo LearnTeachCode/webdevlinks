@@ -1,6 +1,6 @@
-##Learn to Code LA's first front-end web dev group project
+## Learn to Code LA's first front-end web dev group project
 
-###Homework:
+### Homework:
 **Priority for our Monday night meetup group goes to those who do the homework!**
 
 1. Make a GitHub account and send your username to Liz Krane on Meetup.com
@@ -12,10 +12,10 @@
 
 If you get stuck or have any questions, just ask us! We have a [private group chat on Slack](http://learntocodela.slack.com) -- send Liz Krane your email address if you want an invite.
 
-###Goal for next meetup:
+### Goal for next meetup:
 - Create a finished HTML document for version 1 of our website content!
 
-###Our list of cool web dev links:
+### Our list of cool web dev links:
 
 How to use GitHub Pages (host a free website on GitHub):  
 http://jmcglone.com/guides/github-pages/
@@ -120,7 +120,6 @@ http://enjoycss.com/
 Zurb's Foundation – An alternative to Bootstrap:
 http://foundation.zurb.com/
 
-stuuf
 
 ## Javascript
 
